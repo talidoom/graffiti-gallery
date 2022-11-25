@@ -1,0 +1,15 @@
+.menu__link {
+  width: 100%;
+  padding: 20px 0;
+  margin: 0;
+  text-decoration: none;
+  color: #757575;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: normal;
+  text-align: center;
+}
+.menu__link:hover {
+  color: #000;
+  background-color: #757575;
+}
