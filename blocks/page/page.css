@@ -8,4 +8,9 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   min-width: 1280px;
+  /* justify-content: center;
+  display: grid;
+  grid-template-areas: 'header grid-block grid-block'
+  'header info info'
+  'header block-links block-links' */
 }
